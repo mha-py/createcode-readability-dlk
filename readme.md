@@ -1,5 +1,5 @@
 
-# One repsitory, three subprojects
+# Transformer Architecture - Three Subprojects
 + Readability: How easy is a text to read?
 + Deutscher Lyrik Korpus: At which year was a poem published?
 + Python autocomplete: Creates Python Code
